@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    font-family: "red rose";
+    background-color: beige;
+}
+header{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;  
+   text-align: center;  
+   padding-left: 20px;
+   padding-right: 20px;
+   background-color: beige;
+   text-align: center;
+}
+#titulo{
+   
+    align-items: center ;
+    font-size: 40px;
+}
+img{
+    width: 100px;
+}
+section{
+background-color: white;
+text-align: center;
+margin:auto;
+width: 500px;
+padding: 50px;
+border-radius: 40px;
+;
+}
+#carteirinha{
+    background-color: rgb(231, 231, 231);
+    display: flex;
+    align-items: center;;
+    display: none;
+    text-align: center;
+}
+#estudante{
+    background-color: rgb(231, 231, 231);
+    width: 150px;
+}
+#estudy{
+    background-color:rgb(231, 231, 231) ;
+}
+.txt{
+    background-color: white;
+    font-size: 20px;
+}
+#botão{
+    width: 70px;
+    height: 30px;
+    background-color: brown;
+    color: wheat;
+}
